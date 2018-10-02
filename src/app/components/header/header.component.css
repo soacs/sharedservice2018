@@ -1,0 +1,41 @@
+div {
+  display: block;
+  background: lightsteelblue;
+  height: 160px;
+  color: orangered;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  font-variant: common-ligatures;
+  font-stretch: semi-expanded;
+  line-height: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0px;
+  text-align: center;
+}
+
+span {
+  color:red;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 14px;
+  font-variant: common-ligatures;
+  font-stretch: semi-expanded;
+  line-height: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+a {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+p {
+  background: lightsteelblue !important;
+  color: black;
+  padding-top: 15px;
+}
+
+
